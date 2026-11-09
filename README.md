@@ -10,6 +10,8 @@ monthly support: KES 10,000 / month - fix errors, add new reports, monthly check
 README
 # Nairobi Wholesale Distributor - Monday Report
 
+![Monday Report Output](output.png)
+
 Replaces 45 minutes of manual Excel work with one Python + SQL script.
 
 ## What it does
@@ -37,3 +39,7 @@ Table: `orders`
 ## How to run
 ```bash
 python today_exercise.py
+
+
+
+
