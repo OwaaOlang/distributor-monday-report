@@ -1,9 +1,21 @@
 
 
 
-pricing for a distributor:
-setup fee: KES 35,000 one-time - Build database, clean excel data, create 5 monday reports, train staff.
-monthly support: KES 10,000 / month - fix errors, add new reports, monthly check-in, keep data backed up.
+## Pricing for a Distributor
+
+**Setup fee: KES 35,000 one-time**
+- Build database
+- Clean Excel data
+- Create 5 Monday reports
+- Train staff
+
+**Monthly support: KES 10,000 / month**
+- Fix errors
+- Add new reports
+- Monthly check-in
+- Keep data backed up
+
+Why separate? Setup is building it once. Support is keeping it running.
 
 
 
